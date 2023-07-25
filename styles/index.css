@@ -10,6 +10,7 @@ body{
     align-items: center;
     height: 100vh;
     background-color: hsl(30, 38%, 92%);
+    box-shadow: 0 0 200px rgba(0,0,0,0.9) inset;
 }
 
 .container-grid{
